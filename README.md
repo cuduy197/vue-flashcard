@@ -1,12 +1,15 @@
-#Vue Flashcard!
+# Vue Flashcard!
 
-### install
-+ npm i vue-flashcard -S
+[![NPM](https://nodei.co/npm/vue-flashcard.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-flashcard/)
++ This is [on GitHub](https://github.com/cuduy197/vue-flashcard) so let me know if I've b0rked it somewhere.
+
+### Install
+``` npm i vue-flashcard```
 
 ### Usage 
 
-+  import flashCard from 'vue-flashcard';
-+  add it to components : { flashCard }
+```  import flashCard from 'vue-flashcard'; ```
++ :tada: Add it to  ``` components : { flashCard } ```
 
 ### Props: 
 + front="" ( Front text)
@@ -25,4 +28,4 @@
 + footerBack=""   (footer back text )
 
 
-## Make with keyboard <3 
+## Make with my old laptop <3 

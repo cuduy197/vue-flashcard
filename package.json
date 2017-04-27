@@ -1,15 +1,22 @@
 {
-    "name": "vue-flashcard",
-    "version": "1.1.0",
-    "description": "Flashcard component for vuejs 2",
-    "main": "flashcard.vue",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "vuejs2"
-    ],
-    "readme": "README.md",
-    "author": "cuduy197",
-    "license": "MIT"
+  "name": "vue-flashcard",
+  "version": "1.1.1",
+  "description": "Flashcard component for vuejs 2",
+  "main": "flashcard.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs2"
+  ],
+  "author": "cuduy197",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuduy197/vue-flashcard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cuduy197/vue-flashcard/issues"
+  },
+  "homepage": "https://github.com/cuduy197/vue-flashcard#readme"
 }
