@@ -45,11 +45,11 @@ back="with animation">
 + `textSizeFront` (Text size front card ) [default: "2em"]
 + `textSizeBack` (Text size back card )  [default: "2em"]
 
-+ `headerFront` (header front text ) [default: "Do you know?"]
-+ `headerBack` (header back text )  [default: "Answer"]
++ `headerFront` (Header front text ) [default: "Do you know?"]
++ `headerBack` (Header back text )  [default: "Answer"]
 
-+ `footerFront` (footer front text  [default: "Click to show Back"]
-+ `footerBack=` (footer back text ) [default: "Click to show Front"]
++ `footerFront` (Footer front text)  [default: "Click to show Back"]
++ `footerBack` (Footer back text ) [default: "Click to show Front"]
 
 
 ## Make with my old laptop :octocat:  
