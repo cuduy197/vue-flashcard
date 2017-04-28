@@ -16,7 +16,7 @@ import vueFlashcard from 'vue-flashcard';
 
 export default {
 
-components : { flashCard }
+components : { vueFlashcard }
 
 }
 ```

@@ -6,7 +6,7 @@
                 <p v-bind:style="{fontSize: textSizeFront,fontWeight: 'bold'}">{{front}}</p>
                 <img v-if="imgFront!=''" :src="imgFront" width="200" height="200">
             </div>
-            <div class="card-footer" style="">{{footerFront}}</div>
+            <div class="card-footer">{{footerFront}}</div>
         </div>
         <div @click="isToggle=!isToggle" v-bind:style="{backgroundColor: colorBack, color: colorTextBack}" v-show="isToggle" class="animated flipInX flashcard">
             <div class="card-header" style="padding-bottom: 15px;"> {{headerBack}}</div>
