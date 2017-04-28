@@ -1,31 +1,57 @@
-# Vue Flashcard!
+# Vue Flashcard :zap:
 
-[![NPM](https://nodei.co/npm/vue-flashcard.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-flashcard/)
-+ This is [on GitHub](https://github.com/cuduy197/vue-flashcard) so let me know if I've b0rked it somewhere.
+![Image flashcard](https://media.giphy.com/media/3og0ICaNlqFKHKlXKo/giphy.gif)
++ This is [on GitHub](https://github.com/cuduy197/vue-flashcard) :octocat:   so let me know if I've b0rked it somewhere, give me a star :star: if you like it  :musical_note:
 
-### Install
+### :white_check_mark: Install :ok_hand:
 ``` npm i vue-flashcard```
 
-### Usage 
+### :white_check_mark: Usage :mortar_board:
+- Add it to  your component  :tada:
 
-```  import flashCard from 'vue-flashcard'; ```
-+ :tada: Add it to  ``` components : { flashCard } ```
+![Usage image](https://media.giphy.com/media/l1BgQGZQxJcXNiwk8/giphy.gif)
 
-### Props: 
-+ front="" ( Front text)
-+ back ="" ( Back text)
+```javascript
+import vueFlashcard from 'vue-flashcard';
 
-+ imgFront="" (Image front )
-+ imgBack="" (Image back) 
+export default {
 
-+ colorFront="" (Color front card )
-+ colorBack="" (Color back card )
+components : { flashCard }
 
-+ headerFront=""   (header front text )
-+ headerBack=""   (header back text )
+}
+```
 
-+ footerFront=""   (footer front text 
-+ footerBack=""   (footer back text )
+### :white_check_mark: Example :four_leaf_clover: 
+
+```html
+<vue-flashcard 
+front="hello this is a flashcard" 
+back="with animation">
+</vue-flashcard>
+```
+### :white_check_mark: :book: Props: 
++ `front` ( Front text) [default: ""]
++ `back` (Back text) [default: ""]
+
++ `imgFront` (Image front ) [default: ""]
++ `imgBack` (Image back)  [default: ""]
+
++ `colorFront` (Color front card ) [default: "white"]
++ `colorBack` (Color back card ) [default: "green"]
+
++ `colorTextFront` (Color text front card ) [default: "black"]
++ `colorTextBack` (Color text back card ) [default: "white"]
+
++ `textSizeFront` (Text size front card ) [default: "2em"]
++ `textSizeBack` (Text size back card )  [default: "2em"]
+
++ `headerFront` (header front text ) [default: "Do you know?"]
++ `headerBack` (header back text )  [default: "Answer"]
+
++ `footerFront` (footer front text  [default: "Click to show Back"]
++ `footerBack=` (footer back text ) [default: "Click to show Front"]
 
 
-## Make with my old laptop <3 
+## Make with my old laptop :octocat:  
+
+[![NPM](https://nodei.co/npm/vue-flashcard.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-flashcard/)
