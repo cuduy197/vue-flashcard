@@ -5,7 +5,7 @@
     "main": "flashcard.vue",
     "scripts": {
         "test": "echo HELLO",
-        "preinstall": "echo THANK YOU 😀 Github repo: https://github.com/cuduy197/vue-flashcard"
+        "preinstall": "echo ._THANKS YOU 😀_. Github : https://github.com/cuduy197/vue-flashcard"
     },
     "keywords": [
         "vuejs2",
