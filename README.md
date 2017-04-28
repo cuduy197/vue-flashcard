@@ -1,7 +1,7 @@
 # Vue Flashcard :zap:
 
 ![Image flashcard](https://media.giphy.com/media/3og0ICaNlqFKHKlXKo/giphy.gif)
-+ This is [on GitHub](https://github.com/cuduy197/vue-flashcard) :octocat:   so let me know if I've b0rked it somewhere, give me a star :star: if you like it  :musical_note:
++ This is [on GitHub](https://github.com/cuduy197/vue-flashcard)  so let me know if I've b0rked it somewhere, give me a star :star: if you like it 
 
 ### :white_check_mark: Install :ok_hand:
 ``` npm i vue-flashcard```
